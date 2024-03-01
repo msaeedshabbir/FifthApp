@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">My App</string>
+    <string name="name">Muhammad Jamil</string>
+    <string name="email">test@test.com</string>
+    <string name="contact">+923001234567</string>
+
+    <!--    Placeholders-->
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_password">Password</string>
+
+    <!--    Button Text-->
+    <string name="btn_login">Login</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
